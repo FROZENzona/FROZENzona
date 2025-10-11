@@ -5,12 +5,10 @@
 🤝 As a member of the open-source community, I love sharing knowledge and collaborating with others.
 🚀 My goal is to build innovative web solutions that enhance user experience.
 
-📫 Contact Me:
+📫 Contact Me:none
 
 Email: [sukuna.01game@gmail.com]
 
-GitHub: [github.com/username]
-
-Telegram: [@username]
+Telegram: [none]
 
 💡 “Every line of code is a new opportunity.”
